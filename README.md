@@ -1,12 +1,11 @@
 # 🎓 Oportunidade de Mestrado E Doutorado — PPGENG / UNIPAMPA  
 
-**Vaga disponível no LFCTA — Fluidodinâmica Computacional e Turbulência Atmosférica**  
-
+**Vaga disponível para o Laboratório de Fluidodinâmica Computacional e Turbulência Atmosférica (LFCTA)**  
 
 
 ### 📢 Chamada Aberta  
 
-Estão abertas as inscrições para o **Mestrado e Doutorado em Engenharia (PPGENG)** e da **Universidade Federal do Pampa (UNIPAMPA)**.  
+Estão abertas as inscrições para o **Mestrado e Doutorado em Engenharia (PPGENG)** na **Universidade Federal do Pampa (UNIPAMPA)**.  
 O processo seletivo oferece **vaga vinculada ao grupo de pesquisa LFCTA**, com foco em **modelagem atmosférica, simulçaões numéricas**.
 
 <table border="0" cellpadding="0" cellspacing="0">
@@ -23,28 +22,10 @@ O processo seletivo oferece **vaga vinculada ao grupo de pesquisa LFCTA**, com f
 
 
 
-
-
-
 ### 📄 Edital Completo  
 
-📥 [Clique aqui para acessar o edital oficial (PDF)](https://cursos.unipampa.edu.br/cursos/ppeng/files/2025/10/processo_seletivo_mestrado_2026_01.pdf)
-
-
-
-### 🧭 Como Participar  
-
-1. Leia o edital atentamente.  
-2. Prepare a documentação exigida.  
-3. Escolha o **LFCTA** como grupo de orientação.  
-4. Envie sua inscrição dentro do prazo estabelecido.  
-
-
-
-### 🌎 Contato e Informações  
-
-🔗 **Site do Programa:** [https://cursos.unipampa.edu.br/cursos/ppeng](https://cursos.unipampa.edu.br/cursos/ppeng)  
-🔬 **Laboratório LFCTA:** pesquisas em **modelagem atmosférica, turbulência, micrometeorologia e clima regional.**
+📥 [Clique aqui para acessar o edital oficial - Mestrado (PDF)](https://cursos.unipampa.edu.br/cursos/ppeng/files/2025/10/processo_seletivo_mestrado_2026_01.pdf)
+📥 [Clique aqui para acessar o edital oficial - Doutado (PDF)](https://cursos.unipampa.edu.br/cursos/ppeng/files/2025/10/processo_seletivo_doutorado_2026_01.pdf)
 
 
 
