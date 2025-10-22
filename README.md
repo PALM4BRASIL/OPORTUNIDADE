@@ -4,7 +4,7 @@
 
 ### 📢 Chamada Aberta  
 **Período de inscrições 01/12/2026 a 30/01/2026**
-Estão abertas as inscrições para o **Mestrado e Doutorado em Engenharia (PPGENG)** na **Universidade Federal do Pampa (UNIPAMPA)**.  
+Estão abertas as inscrições para o **Mestrado e Doutorado em Engenharia (PPGENG)** na **Universidade Federal do Pampa (UNIPAMPA) - Alegrete/RS**.  
 
 ### 📄 Edital Completo  
 
