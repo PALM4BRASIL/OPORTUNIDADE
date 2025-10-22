@@ -5,6 +5,20 @@
 ### 📢 Chamada Aberta  
 **Período de inscrições 01/12/2026 a 30/01/2026**
 
+### 📄 Edital Completo  
+
+📥 [Clique aqui para acessar o edital oficial - Mestrado (PDF)](https://cursos.unipampa.edu.br/cursos/ppeng/files/2025/10/processo_seletivo_mestrado_2026_01.pdf)
+
+
+📥 [Clique aqui para acessar o edital oficial - Doutado (PDF)](https://cursos.unipampa.edu.br/cursos/ppeng/files/2025/10/selecao-ingresso-doutorado_2026_01.pdf)
+
+
+
+<p align="center">
+  <sub>📍 UNIPAMPA — Programa de Pós-Graduação em Engenharia (PPGENG) • Laboratório LFCTA</sub>
+</p>
+
+
 Estão abertas as inscrições para o **Mestrado e Doutorado em Engenharia (PPGENG)** na **Universidade Federal do Pampa (UNIPAMPA)**.  
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -21,16 +35,3 @@ Estão abertas as inscrições para o **Mestrado e Doutorado em Engenharia (PPGE
 </table>
 
 
-
-### 📄 Edital Completo  
-
-📥 [Clique aqui para acessar o edital oficial - Mestrado (PDF)](https://cursos.unipampa.edu.br/cursos/ppeng/files/2025/10/processo_seletivo_mestrado_2026_01.pdf)
-
-
-📥 [Clique aqui para acessar o edital oficial - Doutado (PDF)](https://cursos.unipampa.edu.br/cursos/ppeng/files/2025/10/selecao-ingresso-doutorado_2026_01.pdf)
-
-
-
-<p align="center">
-  <sub>📍 UNIPAMPA — Programa de Pós-Graduação em Engenharia (PPGENG) • Laboratório LFCTA</sub>
-</p>
