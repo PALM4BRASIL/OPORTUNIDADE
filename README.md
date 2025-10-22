@@ -6,8 +6,6 @@
 ### 📢 Chamada Aberta  
 
 Estão abertas as inscrições para o **Mestrado e Doutorado em Engenharia (PPGENG)** na **Universidade Federal do Pampa (UNIPAMPA)**.  
-O processo seletivo oferece **vaga vinculada ao grupo de pesquisa LFCTA**, com foco em **modelagem atmosférica, simulçaões numéricas**.
-
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td style="vertical-align: top; padding-right: 20px;" border="0">
@@ -25,6 +23,8 @@ O processo seletivo oferece **vaga vinculada ao grupo de pesquisa LFCTA**, com f
 ### 📄 Edital Completo  
 
 📥 [Clique aqui para acessar o edital oficial - Mestrado (PDF)](https://cursos.unipampa.edu.br/cursos/ppeng/files/2025/10/processo_seletivo_mestrado_2026_01.pdf)
+
+
 📥 [Clique aqui para acessar o edital oficial - Doutado (PDF)](https://cursos.unipampa.edu.br/cursos/ppeng/files/2025/10/processo_seletivo_doutorado_2026_01.pdf)
 
 
