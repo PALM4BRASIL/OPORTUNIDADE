@@ -9,7 +9,7 @@ Estão abertas as inscrições para o **Mestrado e Doutorado em Engenharia (PPGE
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td style="vertical-align: top; padding-right: 20px;" border="0">
-      <h2>🔬 Sobre o Laboratório de Fluidodinâmica Computacional e Turbulência Atmosférica - LFCTA</h2>
+      <h2> [Sobre o Laboratório de Fluidodinâmica Computacional e Turbulência Atmosférica - LFCTA] (https://https://sites.unipampa.edu.br/lfcta/)</h2>
       <p>O LFCTA foi criado em 2014, por um grupo de professores da UNIPAMPA – Campus Alegrete, com o nome de Grupos de Estudo em Sistemas Complexos e Aplicações, com o objetivo de desenvolver pesquisas em temas tais como turbulência e teoria do caos. Com a evolução e amadurecimento, o grupo começou a focar em temas de pesquisas mais amplos relacionados com modelagem de numérica de fluídos e o estudo comportamento do escoamento na camada limite atmosférica e suas implicações em diferentes áreas, tais como, previsão de tempo e clima e geração de energia.</p>
     </td>
     <td border="0">
