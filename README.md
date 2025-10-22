@@ -1,4 +1,4 @@
-# 🎓 Oportunidade de Mestrado E Doutorado — PPGENG / UNIPAMPA  
+# 🎓 Oportunidade de Mestrado E Doutorado — PPGENG/UNIPAMPA  
 
 **Vaga disponível para o Laboratório de Fluidodinâmica Computacional e Turbulência Atmosférica (LFCTA)**  
 
