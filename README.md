@@ -25,7 +25,7 @@ Estão abertas as inscrições para o **Mestrado e Doutorado em Engenharia (PPGE
 📥 [Clique aqui para acessar o edital oficial - Mestrado (PDF)](https://cursos.unipampa.edu.br/cursos/ppeng/files/2025/10/processo_seletivo_mestrado_2026_01.pdf)
 
 
-📥 [Clique aqui para acessar o edital oficial - Doutado (PDF)](https://cursos.unipampa.edu.br/cursos/ppeng/files/2025/10/processo_seletivo_doutorado_2026_01.pdf)
+📥 [Clique aqui para acessar o edital oficial - Doutado (PDF)](https://cursos.unipampa.edu.br/cursos/ppeng/files/2025/10/selecao-ingresso-doutorado_2026_01.pdf)
 
 
 
