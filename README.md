@@ -1,6 +1,4 @@
-# oportunidades
-
-# 🎓 Oportunidade de Mestrado — PPGENG / UNIPAMPA  
+# 🎓 Oportunidade de Mestrado E Doutorado — PPGENG / UNIPAMPA  
 
 > **Vaga disponível no LFCTA — Laboratório de Física e Climatologia do Pampa**  
 
@@ -8,16 +6,14 @@
 
 ## 📢 Chamada Aberta  
 
-Estão abertas as inscrições para o **Mestrado em Engenharia (PPGENG)** da **Universidade Federal do Pampa (UNIPAMPA)**.  
-O processo seletivo oferece **vaga vinculada ao grupo de pesquisa LFCTA**, com foco em **modelagem atmosférica, climatologia, micrometeorologia e balanço de carbono**.
+Estão abertas as inscrições para o **Mestrado e Doutorado em Engenharia (PPGENG)** e da **Universidade Federal do Pampa (UNIPAMPA)**.  
+O processo seletivo oferece **vaga vinculada ao grupo de pesquisa LFCTA**, com foco em **modelagem atmosférica, simulçaões numéricas**.
 
----
+----
 
-## 🔬 Sobre o LFCTA  
+## 🔬 Sobre o Laboratório de Fluidodinâmica Computacional e Turbulência Atmosférica - LFCTA  
 
-O **Laboratório de Física e Climatologia do Pampa (LFCTA)** desenvolve pesquisas aplicadas ao **bioma Pampa**, integrando **modelagem numérica (WRF, PALM-LES)**, **observações de campo** e **análises ambientais e energéticas**.  
-As linhas de pesquisa envolvem cooperação com instituições nacionais e internacionais nas áreas de **turbulência atmosférica, gases de efeito estufa e impactos climáticos regionais**.
-
+O LFCTA foi criado em 2014, por um grupo de professores da UNIPAMPA – Campus Alegrete, com o nome de Grupos de Estudo em Sistemas Complexos e Aplicações, com o objetivo de desenvolver pesquisas em temas tais como turbulência e teoria do caos. Com a evolução e amadurecimento, o grupo começou a focar em temas de pesquisas mais amplos relacionados com modelagem de numérica de fluídos e o estudo comportamento do escoamento na camada limite atmosférica e suas implicações em diferentes áreas, tais como, previsão de tempo e clima e geração de energia.
 ---
 
 ## 📄 Edital Completo  
